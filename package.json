@@ -1,6 +1,6 @@
 {
   "name": "codyhouse-framework",
-  "version": "2.8.9",
+  "version": "2.9.1",
   "description": "A lightweight front-end framework for building accessible, bespoke interfaces.",
   "main": "index.js",
   "keywords": [
@@ -26,7 +26,7 @@
   "author": "Amber Creative Lab <info@ambercreative.co>",
   "license": "MIT",
   "devDependencies": {
-    "autoprefixer": "^9.8.8",
+    "autoprefixer": "^9.4.3",
     "browser-sync": "^2.26.3",
     "gulp": "^4.0.0",
     "gulp-concat": "^2.6.1",
@@ -37,14 +37,11 @@
     "gulp-sass-glob": "^1.1.0",
     "gulp-uglify": "^3.0.2",
     "postcss-calc": "^7.0.1",
-    "postcss-css-variables": "git+https://github.com/CodyHouse/postcss-css-variables.git"
+    "postcss-css-variables": "git+https://github.com/CodyHouse/postcss-css-variables"
   },
   "homepage": "https://codyhouse.co",
   "repository": {
     "type": "git",
     "url": "git+https://github.com/CodyHouse/codyhouse-framework.git"
-  },
-  "dependencies": {
-    "emailjs-com": "^3.2.0"
   }
 }
